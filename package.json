@@ -1,0 +1,24 @@
+{
+  "name": "Zamnazon",
+  "version": "1.0.0",
+  "description": "Amazon like application using Node.js and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnawlswalker/Zamnazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnawlswalker/Zamnazon/issues"
+  },
+  "homepage": "https://github.com/rnawlswalker/Zamnazon#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
